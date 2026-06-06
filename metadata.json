@@ -1,0 +1,6 @@
+{
+  "name": "Kapsul Waktu Rindu",
+  "description": "Sebuah ruang personal, interaktif, dan melankolis untuk merawat rindu, menulis surat harian, dan melukis rasi bintang ingatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
